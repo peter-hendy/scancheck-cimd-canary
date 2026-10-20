@@ -1,0 +1,15 @@
+{
+  "client_id": "https://peter-hendy.github.io/scancheck-cimd-canary/client.json",
+  "client_name": "ScanCheck CIMD CANARY 20261020 P8V2",
+  "redirect_uris": [
+    "http://127.0.0.1:49151/callback?scancheck_redirect=CANARY20261020Q7M4"
+  ],
+  "token_endpoint_auth_method": "none",
+  "response_types": [
+    "code"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "application_type": "native"
+}
