@@ -1,0 +1,15 @@
+{
+  "client_id": "https://peter-hendy.github.io/scancheck-cimd-canary/nsx-xss-20261020-r1.json",
+  "client_name": "NSXc1\"><svg onload=nsx3()>NSXc2</strong>NSXc3'NSXc4&",
+  "redirect_uris": [
+    "http://127.0.0.1:49151/callback?scancheck_redirect=NSXd1\"><img src=x onerror=nsx4()>NSXd2"
+  ],
+  "token_endpoint_auth_method": "none",
+  "response_types": [
+    "code"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "application_type": "native"
+}
